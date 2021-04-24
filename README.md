@@ -1,3 +1,8 @@
+![Header](https://i.imgur.com/JuAWlGT.png)
+:paperclip: _Códigos desenvolvidos para a cadeira de Algoritmos e Estrutura de Dados da CESAR School._
+
+![Badge](https://img.shields.io/github/last-commit/anabxms/algoritmos-ordenacao?color=pink&style=flat-square) ![Badge](https://img.shields.io/github/license/anabxms/algoritmos-ordenacao?color=pink&style=flat-square) ![Badge](https://img.shields.io/github/issues/anabxms/algoritmos-ordenacao?color=pink&style=flat-square) ![Badge](https://img.shields.io/github/stars/anabxms/algoritmos-ordenacao?color=pink&style=flat-square)
+
 # Como utilizar
 
 ## Haskell
